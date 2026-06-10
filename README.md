@@ -56,7 +56,7 @@ Built from scratch as a portfolio project while studying **Python**, **Cybersecu
 ### Clone the repository
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/password-analyzer.git
+git clone https://github.com/MR-UNKNOWN8014/password-analyzer.git
 cd password-analyzer
 ```
 
