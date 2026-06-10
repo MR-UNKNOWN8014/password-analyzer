@@ -178,4 +178,4 @@ This project directly implements concepts from **CISSP Domain 1: Security & Risk
 
 ---
 
-Built with Python 3 · No external dependencies · NIST SP 800-63B aligned_
+Built with Python 3 · No external dependencies · NIST SP 800-63B aligned
